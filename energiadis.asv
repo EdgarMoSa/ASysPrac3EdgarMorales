@@ -1,0 +1,5 @@
+function [e] = energiadis(t,a)
+ab=(sqrt((a).^2).^2)
+stem(t,a)
+end
+
